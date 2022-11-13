@@ -1,0 +1,6 @@
+# Dependencies
+node_modules/
+
+# Compiled Javascript code
+index.js
+config.js

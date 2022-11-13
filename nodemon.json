@@ -1,0 +1,5 @@
+{
+    "exec": "tsc && node index.js",
+    "ext": "ts",
+    "ignore": ["config.js", "index.js"]
+}
